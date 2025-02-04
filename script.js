@@ -1,5 +1,5 @@
 function bellRiddle(){
-  var answer = prompt("Why is an orange like a bell? Because they both must be ...");
-  if (answer == "peeled" || answer == "pealed") alert("Correct!");
+  var answer = prompt("Which president of the U.S had the biggest hat? ");
+  if (answer == "one with the biggest head") alert("Correct!");
   else alert("Wrong, Batman! Watch the video, and try again.");
 }
